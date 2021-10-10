@@ -9,4 +9,4 @@ DICAS DIVERSAS
 
 - ANGULAR
 
-  [an example](http://example.com/ "Title")
+  [an example](/foo/dicasbasicas.md)
