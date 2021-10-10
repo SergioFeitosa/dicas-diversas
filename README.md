@@ -5,7 +5,7 @@ DICAS DIVERSAS
 
 - ANGULAR
 
-- [GIT] (/GIT/README.md)
+- [GIT](/GIT/README.md)
 
 - JAVA
 
