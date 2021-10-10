@@ -3,10 +3,10 @@
 
 DICAS DIVERSAS
 
-- GIT
+- ANGULAR
+
+- [GIT] (/GIT/README.md)
 
 - JAVA
 
-- ANGULAR
-
-  [an example](/foo/dicasbasicas.md)
+- VS CODE
