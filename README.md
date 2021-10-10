@@ -9,6 +9,6 @@ DICAS DIVERSAS
 
 - ANGULAR
 
-  [foo](/foo/target.md)
+  [foo](/foo/dicas basicas.md)
   
   
