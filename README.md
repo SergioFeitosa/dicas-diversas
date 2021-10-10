@@ -9,4 +9,6 @@ DICAS DIVERSAS
 
 - ANGULAR
 
-  [an example](http://example.com/ "Title")
+  [foo](/foo/target.md)
+  
+  
